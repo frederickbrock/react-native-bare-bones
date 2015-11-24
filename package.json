@@ -1,0 +1,12 @@
+{
+  "name": "PubnubIntegration",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "pubnub": "3.7.17",
+    "react-native": "0.13.2"
+  }
+}
